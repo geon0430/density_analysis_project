@@ -1,0 +1,9 @@
+train: /workspace/datasets/train/images
+val: /workspace/datasets/valid/images
+test: /workspace/datasets/test/images
+
+# Classes
+names:
+  0: person
+
+
