@@ -1,4 +1,4 @@
-FROM ubuntu:latesti
+FROM ubuntu:latest
 
 ENV TZ=Asia/Seoul
 
